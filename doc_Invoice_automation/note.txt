@@ -1,0 +1,3 @@
+create requirementstxt , .env 
+in terminal run  ip install - r requirements.txt
+we run requirements.txt in terminal is required in case of venv mostly! 
